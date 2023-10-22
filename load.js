@@ -1,0 +1,1 @@
+fetch("https://discord.gg/ezilax");
